@@ -1,0 +1,10 @@
+c:\users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.frmCaroChess.resources
+C:\Users\trann\documents\visual studio 2015\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.frmAbout.resources
